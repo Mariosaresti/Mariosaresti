@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mariosaresti
+- 👋 Hi, I’m @ mariosaresti
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning infosec
+- 🌱 I’m currently learning Msc Information Security
 - 💞️ I’m looking to collaborate on cyber and coding
 - 📫 How to reach me just ask
 
